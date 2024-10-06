@@ -1,7 +1,19 @@
-__pycache__/
+*__pycache__*
+cache
+/.quarto/
+/_site/
+*.html
+site_libs
 
-.vscode/
 
-*egg-info*
+*.csv
+*.geojson
+.~*
+.ipynb_checkpoints
+.*ipynb
 
-*dist*
+*.pdf
+
+tp_files
+
+/.luarc.json

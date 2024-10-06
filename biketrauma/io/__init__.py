@@ -1,1 +1,0 @@
-from .Load_db import load_data
